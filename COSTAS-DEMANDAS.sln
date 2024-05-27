@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34729.46
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COSTAS-DEMANDAS", "COSTAS-DEMANDAS\COSTAS-DEMANDAS.csproj", "{880792C0-B205-4C4D-AA9B-9CAF3C88BAAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COSTAS-DEMANDAS", "COSTAS-DEMANDAS\COSTAS-DEMANDAS.csproj", "{880792C0-B205-4C4D-AA9B-9CAF3C88BAAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F67A4997-D90A-4363-8C62-2CE38E5484A2}"
+	ProjectSection(SolutionItems) = preProject
+		Usuario.json = Usuario.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
